@@ -37,7 +37,7 @@ body {
     width: 50%;
     font-size: 2rem;
     margin: auto;
-    padding: 50px 0;
+    padding: 25px 0;
 }
 
 .question-area span {
@@ -118,7 +118,6 @@ body {
     position: relative;
     left: -0.5em;
 }
-
 
 .btn--blue {
     border-color: blue;
